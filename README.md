@@ -17,6 +17,9 @@ My name is Halil İbrahim, I'm a Mobile Developer 📱 from Turkey.
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> </a> 
 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react native" width="50" height="50"/> </a> 
+
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/> </a> 
 
@@ -25,9 +28,6 @@ My name is Halil İbrahim, I'm a Mobile Developer 📱 from Turkey.
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
-
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> 
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
